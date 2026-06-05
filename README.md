@@ -1,6 +1,10 @@
-### Hi there 👋
+# Hi 👋
 
-![DanieleBogo's github stats](https://github-readme-stats.vercel.app/api?username=danielebogo&show_icons=true&theme=dracula)
+📱 Senior iOS Software Engineer & Mobile Lead  
+🧭 Building apps, platforms, tools, and side projects  
+🕸️ [https://bogodaniele.com](https://bogodaniele.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/danielebogo/)  
+🐦 [Twitter / X](https://twitter.com/theillbo)
 
 <!--
 **danielebogo/danielebogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
